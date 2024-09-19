@@ -1,4 +1,4 @@
-# 🤖 Desafio Chibas - ZapZap simples para o Samuel
+# 🤖 Desafio Chibas - ZapZap simples
 
 ## 📝 Descrição
 Bem-vindo Samuca ao seu primeiro Desafio Chibas! Este projeto é um bot de WhatsApp simples usando a biblioteca whatsapp-web.js. O bot vai te ajudar a aprender sobre automação de mensagens no WhatsApp.
